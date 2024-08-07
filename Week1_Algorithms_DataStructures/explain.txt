@@ -1,0 +1,53 @@
+Exercise 1: Inventory Management System
+1. Understand the Problem:
+Importance of Data Structures and Algorithms:
+
+Efficient handling of large inventories requires fast and reliable data storage and retrieval mechanisms.
+Proper data structures and algorithms ensure that operations like adding, updating, and deleting inventory items are performed quickly and efficiently.
+Suitable Data Structures:
+
+ArrayList: Allows dynamic resizing and provides fast access to elements.
+HashMap: Offers efficient key-value pair storage, allowing quick lookups, insertions, and deletions.
+Exercise 2: E-commerce Platform Search Function
+1. Understand Asymptotic Notation:
+Big O Notation:
+
+A mathematical notation that describes the upper limit of an algorithm's runtime as the input size grows.
+Helps in analyzing and comparing the efficiency of different algorithms.
+Search Operation Scenarios:
+
+Best Case: The scenario where the search completes in the least amount of time.
+Average Case: The expected runtime for typical inputs.
+Worst Case: The maximum time the algorithm could take to complete.
+Exercise 3: Sorting Customer Orders
+1. Understand Sorting Algorithms:
+Sorting Algorithms:
+
+Bubble Sort: Simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
+Insertion Sort: Builds the final sorted array one item at a time, inserting each new item into its correct position.
+Quick Sort: A divide-and-conquer algorithm that partitions the array into smaller arrays and recursively sorts them.
+Merge Sort: Also a divide-and-conquer algorithm that divides the array into halves, sorts each half, and then merges the sorted halves.
+Exercise 4: Employee Management System
+1. Understand Array Representation:
+Array Representation:
+
+Arrays are stored contiguously in memory, allowing constant-time access to elements via indices.
+They are simple to implement and efficient for fixed-size collections of data.
+Exercise 5: Task Management System
+1. Understand Linked Lists:
+Types of Linked Lists:
+
+Singly Linked List: Each node contains data and a reference to the next node.
+Doubly Linked List: Each node contains data, a reference to the next node, and a reference to the previous node.
+Exercise 6: Library Management System
+1. Understand Search Algorithms:
+Search Algorithms:
+
+Linear Search: Sequentially checks each element of the list until the target element is found or the list ends.
+Binary Search: Efficiently searches a sorted list by repeatedly dividing the search interval in half until the target element is found.
+Exercise 7: Financial Forecasting
+1. Understand Recursive Algorithms:
+Recursion:
+
+A method where the solution to a problem depends on solutions to smaller instances of the same problem.
+Simplifies solving complex problems by breaking them down into smaller, more manageable sub-problems.
